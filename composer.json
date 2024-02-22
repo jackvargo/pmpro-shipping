@@ -1,0 +1,27 @@
+{
+    "name": "jackvargo/pmpro-shipping",
+    "description": "Adds shipping fields to the checkout page, confirmation page, confirmation emails, member's list and edit user profile pages.",
+    "type": "wordpress-plugin",
+    "homepage": "https://www.paidmembershipspro.com/add-ons/shipping-address-membership-checkout/",
+    "require": {
+        "php": ">=7.0",
+        "johnpbloch/wordpress": ">=5.0"
+    },
+    "authors": [
+        {
+            "name": "strangerstudios",
+            "homepage": "https://github.com/strangerstudios"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/strangerstudios/pmpro-shipping",
+        "issues": "https://github.com/strangerstudios/pmpro-shipping/issues"
+    },
+    "extra": {
+        "original_repository": "https://github.com/strangerstudios/pmpro-shipping",
+        "stars": 3,
+        "watchers": 3,
+        "forks": 18,
+        "open_issues": 5
+    }
+}
